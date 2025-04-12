@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jonathan Meriño Bolivar
 - 👀 I’m interested in mobile Development.
-- 🌱 I’m currently learning iOS
 
 
 <!---
